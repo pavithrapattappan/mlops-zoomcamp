@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/472346614891718698/f047580db19f43b8942a90050483f5ff/artifacts
+end_time: 1754470833105
+entry_point_name: ''
+experiment_id: '472346614891718698'
+lifecycle_stage: active
+run_id: f047580db19f43b8942a90050483f5ff
+run_name: adventurous-pug-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754470771318
+status: 3
+tags: []
+user_id: PavithraPattappan
