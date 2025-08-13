@@ -1,0 +1,40 @@
+Question 1. Select the Tool
+You can use the same tool you used when completing the module, or choose a different one for your homework.
+
+What's the name of the orchestrator you chose?
+Perfect
+
+Question 2. Version
+What's the version of the orchestrator?
+
+Question 3. Creating a pipeline
+Let's read the March 2023 Yellow taxi trips data.
+
+How many records did we load?
+
+
+3,403,766
+
+
+
+Question 4. Data preparation
+
+
+
+3,316,216
+
+Question 5. Train a model
+We will now train a linear regression model using the same code as in homework 1.
+
+What's the intercept of the model?
+
+
+24.77
+
+Question 6. Register the model
+The model is trained, so let's save it with MLFlow.
+
+Find the logged model, and find MLModel file. What's the size of the model? (model_size_bytes field):
+
+
+4,534
