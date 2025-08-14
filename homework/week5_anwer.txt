@@ -1,0 +1,11 @@
+Question 1. Prepare the dataset 
+Answer: 57457
+
+Question 2. Metric 
+Answer: ColumnQuantileMetric
+
+Question 3. Monitoring 
+Answer: 14.2
+
+Question 4. Dashboard 
+Answer: project_folder/dashboards (05-monitoring/dashboards)
