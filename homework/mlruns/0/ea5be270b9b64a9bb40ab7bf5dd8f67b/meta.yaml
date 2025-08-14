@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ea5be270b9b64a9bb40ab7bf5dd8f67b/artifacts
+end_time: 1755065721751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea5be270b9b64a9bb40ab7bf5dd8f67b
+run_name: mercurial-cub-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755065716662
+status: 4
+tags: []
+user_id: PavithraPattappan
